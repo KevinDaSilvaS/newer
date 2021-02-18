@@ -9,3 +9,7 @@ cd newer
 stack build
 cd .stack-work/install/hash/bin/newer
 ```
+
+<h4>You will get a result like this</h4>
+![docs](/images/docs.png)
+Format: ![Alt Text](url)
